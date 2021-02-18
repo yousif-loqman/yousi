@@ -1813,7 +1813,7 @@ color: #b8975f;
     color: #ffffff;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     .footer .copyright p,
     .footer .copyright .col-md-6:last-child p {
         margin: 5px 0;
